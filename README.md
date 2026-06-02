@@ -71,14 +71,14 @@ The app has **24 user-facing screens** and **1 bottom-navigation shell** (`MainS
 
 <table width="100%">
   <tr>
-    <td width="33%" align="center"><b>Onboarding</b><br><br><img src="docs/screenshots/onboarding-interests-language.jpg" width="100%" alt="Onboarding"></td>
+    <td width="33%" align="center"><b>Onboarding Interests</b><br><br><img src="docs/screenshots/onboarding-interests.jpg" width="100%" alt="Onboarding Interests"></td>
+    <td width="33%" align="center"><b>Onboarding Language</b><br><br><img src="docs/screenshots/onboarding-language.jpg" width="100%" alt="Onboarding Language"></td>
     <td width="33%" align="center"><b>Home Dashboard</b><br><br><img src="docs/screenshots/home-dashboard.jpg" width="100%" alt="Home Dashboard"></td>
-    <td width="33%" align="center"><b>Call Summary</b><br><br><img src="docs/screenshots/call-summary.jpg" width="100%" alt="Call Summary"></td>
   </tr>
   <tr>
+    <td width="33%" align="center"><b>Call Summary</b><br><br><img src="docs/screenshots/call-summary.jpg" width="100%" alt="Call Summary"></td>
     <td width="33%" align="center"><b>Vocabulary List</b><br><br><img src="docs/screenshots/vocabulary-list.jpg" width="100%" alt="Vocabulary List"></td>
     <td width="33%" align="center"><b>Test Result</b><br><br><img src="docs/screenshots/test-result.jpg" width="100%" alt="Test Result"></td>
-    <td width="33%"></td>
   </tr>
 </table>
 
