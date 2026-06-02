@@ -27,32 +27,7 @@ Most of the app is intentionally simple to run for demos and college evaluation.
 
 The app has **24 user-facing screens** and **1 bottom-navigation shell** (`MainScreen`). These are the screenshots currently added to the project.
 
-<p align="center">
-  <img src="docs/screenshots/splash-screen.jpg" width="180" alt="Splash Screen" />
-  <img src="docs/screenshots/auth-login.jpg" width="180" alt="Login Screen" />
-  <img src="docs/screenshots/auth-signup.jpg" width="180" alt="Sign Up Screen" />
-  <img src="docs/screenshots/auth-forgot-password.jpg" width="180" alt="Forgot Password Screen" />
-  <img src="docs/screenshots/onboarding-interests-language.jpg" width="180" alt="Onboarding Interests and Language Screen" />
-  <img src="docs/screenshots/home-dashboard.jpg" width="180" alt="Home Dashboard Screen" />
-  <img src="docs/screenshots/matchmaking-found.jpg" width="180" alt="Match Found Screen" />
-  <img src="docs/screenshots/matchmaking-waiting.jpg" width="180" alt="Waiting for Match Screen" />
-  <img src="docs/screenshots/live-video-call-translation.png" width="180" alt="Live Video Call with Translation Screen" />
-  <img src="docs/screenshots/call-summary.jpg" width="180" alt="Call Summary Screen" />
-  <img src="docs/screenshots/flashcards-front.jpg" width="180" alt="Flashcard Front Screen" />
-  <img src="docs/screenshots/flashcards-answer.jpg" width="180" alt="Flashcard Answer Screen" />
-  <img src="docs/screenshots/vocab-favourite.jpg" width="180" alt="Favorites Screen" />
-  <img src="docs/screenshots/vocabulary-list.jpg" width="180" alt="Vocabulary List Screen" />
-  <img src="docs/screenshots/test-list.jpg" width="180" alt="Test List Screen" />
-  <img src="docs/screenshots/test-taking.jpg" width="180" alt="Test Taking Screen" />
-  <img src="docs/screenshots/test-result.jpg" width="180" alt="Test Result Screen" />
-  <img src="docs/screenshots/schedule-request.jpg" width="180" alt="Schedule Request Screen" />
-  <img src="docs/screenshots/schedule-session.jpg" width="180" alt="Scheduled Session Screen" />
-  <img src="docs/screenshots/profile.jpg" width="180" alt="Profile Screen" />
-  <img src="docs/screenshots/achievements.jpg" width="180" alt="Achievements Screen" />
-  <img src="docs/screenshots/settings.jpg" width="180" alt="Settings Screen" />
-  <img src="docs/screenshots/delete-screen.jpg" width="180" alt="Delete Screen" />
-  <img src="docs/screenshots/confirm-delete.jpg" width="180" alt="Confirm Delete Screen" />
-</p>
+
 
 ---
 
