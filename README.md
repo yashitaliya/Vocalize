@@ -27,6 +27,61 @@ Most of the app is intentionally simple to run for demos and college evaluation.
 
 The app has **24 user-facing screens** and **1 bottom-navigation shell** (`MainScreen`). These are the screenshots currently added to the project.
 
+### Standard Screens
+
+<table width="100%">
+  <tr>
+    <td width="33%" align="center"><b>Splash</b><br><br><img src="docs/screenshots/splash-screen.jpg" width="100%" alt="Splash Screen"></td>
+    <td width="33%" align="center"><b>Login</b><br><br><img src="docs/screenshots/auth-login.jpg" width="100%" alt="Login Screen"></td>
+    <td width="33%" align="center"><b>Sign Up</b><br><br><img src="docs/screenshots/auth-signup.jpg" width="100%" alt="Sign Up Screen"></td>
+  </tr>
+  <tr>
+    <td width="33%" align="center"><b>Forgot Password</b><br><br><img src="docs/screenshots/auth-forgot-password.jpg" width="100%" alt="Forgot Password Screen"></td>
+    <td width="33%" align="center"><b>Match Found</b><br><br><img src="docs/screenshots/matchmaking-found.jpg" width="100%" alt="Match Found Screen"></td>
+    <td width="33%" align="center"><b>Waiting for Match</b><br><br><img src="docs/screenshots/matchmaking-waiting.jpg" width="100%" alt="Waiting for Match Screen"></td>
+  </tr>
+  <tr>
+    <td width="33%" align="center"><b>Live Video Call</b><br><br><img src="docs/screenshots/live-video-call-translation.png" width="100%" alt="Live Video Call"></td>
+    <td width="33%" align="center"><b>Flashcard Front</b><br><br><img src="docs/screenshots/flashcards-front.jpg" width="100%" alt="Flashcard Front"></td>
+    <td width="33%" align="center"><b>Flashcard Answer</b><br><br><img src="docs/screenshots/flashcards-answer.jpg" width="100%" alt="Flashcard Answer"></td>
+  </tr>
+  <tr>
+    <td width="33%" align="center"><b>Favorites</b><br><br><img src="docs/screenshots/vocab-favourite.jpg" width="100%" alt="Favorites"></td>
+    <td width="33%" align="center"><b>Test List</b><br><br><img src="docs/screenshots/test-list.jpg" width="100%" alt="Test List"></td>
+    <td width="33%" align="center"><b>Test Taking</b><br><br><img src="docs/screenshots/test-taking.jpg" width="100%" alt="Test Taking"></td>
+  </tr>
+  <tr>
+    <td width="33%" align="center"><b>Schedule Request</b><br><br><img src="docs/screenshots/schedule-request.jpg" width="100%" alt="Schedule Request"></td>
+    <td width="33%" align="center"><b>Scheduled Session</b><br><br><img src="docs/screenshots/schedule-session.jpg" width="100%" alt="Scheduled Session"></td>
+    <td width="33%" align="center"><b>Profile</b><br><br><img src="docs/screenshots/profile.jpg" width="100%" alt="Profile"></td>
+  </tr>
+  <tr>
+    <td width="33%" align="center"><b>Achievements</b><br><br><img src="docs/screenshots/achievements.jpg" width="100%" alt="Achievements"></td>
+    <td width="33%" align="center"><b>Settings</b><br><br><img src="docs/screenshots/settings.jpg" width="100%" alt="Settings"></td>
+    <td width="33%" align="center"><b>Delete Account</b><br><br><img src="docs/screenshots/delete-screen.jpg" width="100%" alt="Delete Account"></td>
+  </tr>
+  <tr>
+    <td width="33%" align="center"><b>Confirm Delete</b><br><br><img src="docs/screenshots/confirm-delete.jpg" width="100%" alt="Confirm Delete"></td>
+    <td width="33%"></td>
+    <td width="33%"></td>
+  </tr>
+</table>
+
+### Scrollable Screens
+
+<table width="100%">
+  <tr>
+    <td width="33%" align="center"><b>Onboarding</b><br><br><img src="docs/screenshots/onboarding-interests-language.jpg" width="100%" alt="Onboarding"></td>
+    <td width="33%" align="center"><b>Home Dashboard</b><br><br><img src="docs/screenshots/home-dashboard.jpg" width="100%" alt="Home Dashboard"></td>
+    <td width="33%" align="center"><b>Call Summary</b><br><br><img src="docs/screenshots/call-summary.jpg" width="100%" alt="Call Summary"></td>
+  </tr>
+  <tr>
+    <td width="33%" align="center"><b>Vocabulary List</b><br><br><img src="docs/screenshots/vocabulary-list.jpg" width="100%" alt="Vocabulary List"></td>
+    <td width="33%" align="center"><b>Test Result</b><br><br><img src="docs/screenshots/test-result.jpg" width="100%" alt="Test Result"></td>
+    <td width="33%"></td>
+  </tr>
+</table>
+
 
 
 ---
