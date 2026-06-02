@@ -59,7 +59,7 @@ The app has **24 user-facing screens** and **1 bottom-navigation shell** (`MainS
 
 | Confirm Delete | | |
 | :---: | :---: | :---: |
-| <img src="docs/screenshots/confirm-delete.jpg" width="100%" alt="Confirm Delete"> | | |
+| <img src="docs/screenshots/confirm-delete.jpg" width="33%" alt="Confirm Delete"> | | |
 
 ### Scrollable Screens
 
