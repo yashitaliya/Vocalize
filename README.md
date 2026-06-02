@@ -263,7 +263,7 @@ flutter build apk --release --dart-define=AGORA_APP_ID=YOUR_AGORA_APP_ID
 Built as a Semester 6 Computer Engineering project by:
 
 - **Yash Italiya**
-- **Joshi Vedant**
+- **Vedant Joshi**
 - **Yug Kalathiya**
 
 ---
