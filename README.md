@@ -27,35 +27,39 @@ Most of the app is intentionally simple to run for demos and college evaluation.
 
 The app has **24 user-facing screens** and **1 bottom-navigation shell** (`MainScreen`). These are the screenshots currently added to the project.
 
-| Login | Sign Up | Forgot Password |
+| Splash | Login | Sign Up |
 | :---: | :---: | :---: |
-| <img src="docs/screenshots/auth-login.jpg" width="190" alt="Login Screen" /> | <img src="docs/screenshots/auth-signup.jpg" width="190" alt="Sign Up Screen" /> | <img src="docs/screenshots/auth-forgot-password.jpg" width="190" alt="Forgot Password Screen" /> |
+| <img src="docs/screenshots/splash-screen.jpg" height="400" alt="Splash Screen" /> | <img src="docs/screenshots/auth-login.jpg" height="400" alt="Login Screen" /> | <img src="docs/screenshots/auth-signup.jpg" height="400" alt="Sign Up Screen" /> |
 
-| Onboarding | Language Selection | Home Dashboard |
+| Forgot Password | Onboarding | Home Dashboard |
 | :---: | :---: | :---: |
-| <img src="docs/screenshots/onboarding-interests-language.jpg" width="190" alt="Onboarding Interests and Language Screen" /> | <img src="docs/screenshots/onboarding-language-selection.jpg" width="190" alt="Language Selection Screen" /> | <img src="docs/screenshots/home-dashboard.jpg" width="190" alt="Home Dashboard Screen" /> |
+| <img src="docs/screenshots/auth-forgot-password.jpg" height="400" alt="Forgot Password Screen" /> | <img src="docs/screenshots/onboarding-interests-language.jpg" height="400" alt="Onboarding Interests and Language Screen" /> | <img src="docs/screenshots/home-dashboard.jpg" height="400" alt="Home Dashboard Screen" /> |
 
 | Match Found | Waiting for Match | Live Video Call |
 | :---: | :---: | :---: |
-| <img src="docs/screenshots/matchmaking-found.jpg" width="190" alt="Match Found Screen" /> | <img src="docs/screenshots/matchmaking-waiting.jpg" width="190" alt="Waiting for Match Screen" /> | <img src="docs/screenshots/live-video-call-translation.png" width="190" alt="Live Video Call with Translation Screen" /> |
+| <img src="docs/screenshots/matchmaking-found.jpg" height="400" alt="Match Found Screen" /> | <img src="docs/screenshots/matchmaking-waiting.jpg" height="400" alt="Waiting for Match Screen" /> | <img src="docs/screenshots/live-video-call-translation.png" height="400" alt="Live Video Call with Translation Screen" /> |
 
 | Call Summary | Flashcard Front | Flashcard Answer |
 | :---: | :---: | :---: |
-| <img src="docs/screenshots/call-summary.jpg" width="190" alt="Call Summary Screen" /> | <img src="docs/screenshots/flashcards-front.jpg" width="190" alt="Flashcard Front Screen" /> | <img src="docs/screenshots/flashcards-answer.jpg" width="190" alt="Flashcard Answer Screen" /> |
+| <img src="docs/screenshots/call-summary.jpg" height="400" alt="Call Summary Screen" /> | <img src="docs/screenshots/flashcards-front.jpg" height="400" alt="Flashcard Front Screen" /> | <img src="docs/screenshots/flashcards-answer.jpg" height="400" alt="Flashcard Answer Screen" /> |
 
-| Vocabulary List | Test List | Test Taking |
+| Vocabulary List | Favorites | Test List |
 | :---: | :---: | :---: |
-| <img src="docs/screenshots/vocabulary-list.jpg" width="190" alt="Vocabulary List Screen" /> | <img src="docs/screenshots/test-list.jpg" width="190" alt="Test List Screen" /> | <img src="docs/screenshots/test-taking.jpg" width="190" alt="Test Taking Screen" /> |
+| <img src="docs/screenshots/vocabulary-list.jpg" height="400" alt="Vocabulary List Screen" /> | <img src="docs/screenshots/vocab-favourite.jpg" height="400" alt="Favorites Screen" /> | <img src="docs/screenshots/test-list.jpg" height="400" alt="Test List Screen" /> |
 
-| Test Result | Schedule Request | Scheduled Session |
+| Test Taking | Test Result | Schedule Request |
 | :---: | :---: | :---: |
-| <img src="docs/screenshots/test-result.jpg" width="190" alt="Test Result Screen" /> | <img src="docs/screenshots/schedule-request.jpg" width="190" alt="Schedule Request Screen" /> | <img src="docs/screenshots/schedule-session.jpg" width="190" alt="Scheduled Session Screen" /> |
+| <img src="docs/screenshots/test-taking.jpg" height="400" alt="Test Taking Screen" /> | <img src="docs/screenshots/test-result.jpg" height="400" alt="Test Result Screen" /> | <img src="docs/screenshots/schedule-request.jpg" height="400" alt="Schedule Request Screen" /> |
 
-| Profile | Achievements | Settings |
+| Scheduled Session | Profile | Achievements |
 | :---: | :---: | :---: |
-| <img src="docs/screenshots/profile.jpg" width="190" alt="Profile Screen" /> | <img src="docs/screenshots/achievements.jpg" width="190" alt="Achievements Screen" /> | <img src="docs/screenshots/settings.jpg" width="190" alt="Settings Screen" /> |
+| <img src="docs/screenshots/schedule-session.jpg" height="400" alt="Scheduled Session Screen" /> | <img src="docs/screenshots/profile.jpg" height="400" alt="Profile Screen" /> | <img src="docs/screenshots/achievements.jpg" height="400" alt="Achievements Screen" /> |
 
-Screenshots still needed: **Splash**, **Vocabulary Setup**, **Session Analysis**, **Flashcards Hub**, **Favorites**, **Delete Account**, and **Delete Thank You**.
+| Settings | Delete Account | Confirm Delete |
+| :---: | :---: | :---: |
+| <img src="docs/screenshots/settings.jpg" height="400" alt="Settings Screen" /> | <img src="docs/screenshots/delete-screen.jpg" height="400" alt="Delete Screen" /> | <img src="docs/screenshots/confirm-delete.jpg" height="400" alt="Confirm Delete Screen" /> |
+
+Screenshots still needed: **Vocabulary Setup**, **Session Analysis**, and **Flashcards Hub**.
 
 ---
 
