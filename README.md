@@ -265,6 +265,7 @@ Built as a Semester 6 Computer Engineering project by:
 - **Yash Italiya**
 - **Vedant Joshi**
 - **Yug Kalathiya**
+- **Vrushang Nagani**
 
 ---
 
